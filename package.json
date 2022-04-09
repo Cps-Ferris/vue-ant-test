@@ -16,7 +16,7 @@
     "core-js": "^2.6.5",
     "file-saver": "^2.0.2",
     "less-loader": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pubsub-js": "^1.7.0",
     "qs": "^6.7.0",
     "reqwest": "^2.0.5",
